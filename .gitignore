@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+api_keys.py
 __pycache__/
 *.py[cod]
 *$py.class
@@ -7,6 +8,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.ds_store
 .Python
 build/
 develop-eggs/
